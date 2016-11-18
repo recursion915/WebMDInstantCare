@@ -1,0 +1,45 @@
+#map_canvas {
+	height: 200px;
+	background-color: #eee;
+}
+#navbar-filters {
+	color: #ddd;
+	font-size: 12px;
+	padding: 10px;
+}
+#navbar-filters .inner {
+	padding: 0px 10px;
+	margin: 10px 5px 0px 5px;
+	background-color: #523d6d;	
+	display: inline-block;
+}
+#doctorlist {
+	border-top: 2px solid #ddd;
+	padding: 10px;
+}
+.doctorwrapper {
+	height: 100px;
+	background-color: #fafafa;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.doctorwrapper img {
+	height: 90px;
+}
+.doctorwrapper .details {
+	padding-left: 10px;
+}
+.doctorwrapper .details .name {
+	font-size: 20px;
+	display: block;
+}
+.doctorwrapper .details .stars {
+	width: 70px;
+	height: 15px;
+	display: block;
+	margin-bottom: 10px;
+}
+.btn-override {
+	padding: 10px;
+	border-radius: 4px;
+}

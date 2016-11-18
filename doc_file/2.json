@@ -1,0 +1,25 @@
+{
+   "doctor_id":2,
+   "first_name":"Mitchell",
+   "last_name":"Napolatino",
+   "care_type":"medical",
+   "clinic_id":1,
+   "availability":0,
+   "image_url":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAfPAAAAJGI1YzJhODlkLTQzYjYtNGU2ZC1iYjQyLWNmNmI0NjRmZDVkZA.jpg",
+   "ratings":{
+      "instahealth":{
+         "rating":3.8,
+         "num_reviews":21
+      },
+      "yelp":{
+         "rating":4.1,
+         "num_reviews":73
+      },
+      "health grades":{
+         "rating":4.2,
+         "num_reviews":62
+      }
+   },
+   "appointments":[
+   ]
+}

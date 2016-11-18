@@ -1,0 +1,25 @@
+{
+   "doctor_id":3,
+   "first_name":"Ruth",
+   "last_name":"Jameson",
+   "care_type":"medical",
+   "clinic_id":2,
+   "availability":0,
+   "image_url":"http://www.apollonion.com/assets/image/imagesplashdoc/women-img0001.png",
+   "ratings":{
+      "instahealth":{
+         "rating":4.8,
+         "num_reviews":21
+      },
+      "yelp":{
+         "rating":4.5,
+         "num_reviews":73
+      },
+      "health grades":{
+         "rating":4.4,
+         "num_reviews":62
+      }
+   },
+   "appointments":[
+   ]
+}

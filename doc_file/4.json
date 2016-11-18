@@ -1,0 +1,25 @@
+{
+   "doctor_id":4,
+   "first_name":"Jack",
+   "last_name":"Daniels",
+   "care_type":"medical",
+   "clinic_id":2,
+   "availability":0,
+   "image_url":"http://www.dottorelondon.com/wp-content/uploads/2015/12/doctor1-1.png",
+   "ratings":{
+      "instahealth":{
+         "rating":4.9,
+         "num_reviews":21
+      },
+      "yelp":{
+         "rating":4.9,
+         "num_reviews":73
+      },
+      "health grades":{
+         "rating":5.0,
+         "num_reviews":62
+      }
+   },
+   "appointments":[
+   ]
+}

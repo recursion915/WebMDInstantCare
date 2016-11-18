@@ -1,0 +1,25 @@
+{
+   "doctor_id":1,
+   "first_name":"Greg",
+   "last_name":"Pass",
+   "care_type":"medical",
+   "clinic_id":1,
+   "availability":0,
+   "image_url":"https://tech.cornell.edu/images/made/uploads/bios/_landscape/Pass_Greg_2015_2_340_272.jpg",
+   "ratings":{
+      "instahealth":{
+         "rating":4.2,
+         "num_reviews":12
+      },
+      "yelp":{
+         "rating":4.4,
+         "num_reviews":332
+      },
+      "health grades":{
+         "rating":4.0,
+         "num_reviews":122
+      }
+   },
+   "appointments":[
+   ]
+}
